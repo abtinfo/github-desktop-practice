@@ -1,7 +1,7 @@
 Hobbies
 
 Cooking
-Doing Household Chores
+Playing Sports
 Playing Guitar
 
 Skills
@@ -9,3 +9,4 @@ Skills
 Communication
 Teamwork
 Time Management
+
